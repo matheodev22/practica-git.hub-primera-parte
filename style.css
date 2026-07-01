@@ -1,0 +1,44 @@
+.header {
+                background-color: rgb(214, 112, 218);
+                color: white;
+                padding: 35px;
+                text-align: left;
+            }
+.titulo {
+                font-size: 30px;
+                color: white;
+                text-align: center;
+                font-style: italic;
+            }
+.links {
+                color: rgb(255, 255, 255);
+                text-decoration: none;
+                font-size: 15px;
+                background-color: rgb(117, 43, 111);
+            }
+.subtitulo {
+                font-size: 25px;
+                color: rgb(0, 0, 0);
+                text-align: center;
+                font-style: italic;
+            }
+.gordi {
+                font-size: 50px;
+                color: rgb(0, 0, 0);
+                text-align: center;
+                font-style: italic;
+                letter-spacing: 5px;
+            }
+.pic1 {
+                display: block;
+                margin-left: auto;
+                margin-right: auto;
+                
+            }
+.pic2 {
+                display: block;
+                
+                margin-right: auto;
+                width: 100px;
+                height: 150px;
+            }
